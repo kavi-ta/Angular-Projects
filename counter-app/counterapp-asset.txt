@@ -1,0 +1,10 @@
+#################### Component STYLE #######################
+
+/* app component container style */
+
+
+
+#################### Global STYLE #######################
+
+/* main style for the page and setting background */
+
